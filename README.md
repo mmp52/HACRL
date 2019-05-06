@@ -1,3 +1,3 @@
 # HACRL
-Hands-on Automation Control and Robotics Laboratory
-this file is created to make some edits in github branches
+Hands-on Automation Control and Robotics Laboratory;
+this repository is used for creating and controlling a hobby PiDrone which uses ROS on it;
